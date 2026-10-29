@@ -1,0 +1,15 @@
+venv/
+.venv/
+ENV/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.idea/
+
+ast.html
+out.py
+src/parser.out
+project_bundle.txt
